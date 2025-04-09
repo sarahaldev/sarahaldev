@@ -26,4 +26,4 @@ I'm a mathematician and statistician with a growing passion for **Bayesian learn
 ---
 
 📫 **Let’s connect!**  
-[LinkedIn](linkedin.com/in/sarah-alsaadi) | 
+🔗 [LinkedIn – sarah-alsaadi](https://www.linkedin.com/in/sarah-alsaadi/)
