@@ -24,3 +24,14 @@ I'm a mathematician and statistician passionate about **Bayesian learning**, **m
 📫 **Let’s connect!**  
 🔗 [LinkedIn – sarah-alsaadi](https://www.linkedin.com/in/sarah-alsaadi/)
 
+---
+
+## 🕰️ Previously published as [KarDeMumma](https://github.com/Kardemumman)
+
+Some of my earlier work was done under my previous GitHub username **KarDeMumma**.  
+That account includes academic projects in statistics, data analysis, and machine learning.
+
+
+---
+
+🧭 Feel free to explore both profiles — this one reflects my most current work.
