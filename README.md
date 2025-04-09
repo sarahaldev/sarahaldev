@@ -1,25 +1,21 @@
 # 👋 Hi, I'm Sarah Al
 
-Welcome to my GitHub!
+I'm a mathematician and statistician passionate about **Bayesian learning**, **machine learning**, and using data to solve real-world problems in **biostatistics** and **finance**.
 
-I'm a mathematician and statistician with a growing passion for **Bayesian learning**, **machine learning**, and using data to solve real-world problems in **biostatistics** and **banking**.
+🧠 Currently building a portfolio of applied projects focused on:
+- Bayesian health risk modeling
+- ML for credit scoring and risk analytics
+- Reproducible workflows and clear statistical communication
 
-💡 I believe in blending theory with practice — using code to bring complex models to life and make data-driven insights accessible and actionable.
-
-### 🧠 What I'm Working On:
-- 🔬 Bayesian models for health and medical research
-- 📉 Predictive analytics and risk modeling in finance
-- 🛠 Reproducible, well-documented statistical workflows
-
-### 🔧 Tools I Use:
+🔧 Tools I Use:
 - **Python**: `PyMC`, `scikit-learn`, `pandas`, `ArviZ`
-- **R**: `brms`, `tidyverse`, `rstanarm`
-- **Other**: `Jupyter`, `Streamlit`, `Git`, `Quarto`
+- **R**: `brms`, `rstanarm`, `tidyverse`
+- **Other**: `Jupyter`, `Quarto`, `Streamlit`, `Git`
 
-### 📌 Featured Projects (coming soon):
-- Bayesian survival models with medical datasets
-- ML-based credit risk scoring
-- Visual dashboards for model uncertainty
+📌 Featured Projects (coming soon):
+- 📊 Bayesian survival analysis on public health data
+- 💳 Machine learning model for loan default prediction
+- 📈 Visual dashboards for model uncertainty & inference
 
 > 💡 Username: `sarahaldev` — read it like *Sarah AI Dev* 😉
 
@@ -27,3 +23,4 @@ I'm a mathematician and statistician with a growing passion for **Bayesian learn
 
 📫 **Let’s connect!**  
 🔗 [LinkedIn – sarah-alsaadi](https://www.linkedin.com/in/sarah-alsaadi/)
+
